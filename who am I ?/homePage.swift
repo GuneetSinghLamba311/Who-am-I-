@@ -5,7 +5,7 @@
 //  Created by GuneetSingh Lamba on 2020-02-03.
 //  Copyright © 2020 GuneetSingh Lamba. All rights reserved.
 //
-// Version: 1.0
+// Version: 1.0////
 import SwiftUI
 
 struct homePage: View {
