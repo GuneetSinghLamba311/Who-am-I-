@@ -15,6 +15,7 @@
 		1CBD997223E919FD007C3D24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CBD997023E919FD007C3D24 /* LaunchScreen.storyboard */; };
 		1CBD997D23E919FD007C3D24 /* who_am_I__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBD997C23E919FD007C3D24 /* who_am_I__Tests.swift */; };
 		1CBD998823E919FD007C3D24 /* who_am_I__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBD998723E919FD007C3D24 /* who_am_I__UITests.swift */; };
+		1CBD999623E91AC1007C3D24 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CBD999523E91AC1007C3D24 /* homePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1CBD998323E919FD007C3D24 /* who am I ?UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "who am I ?UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CBD998723E919FD007C3D24 /* who_am_I__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = who_am_I__UITests.swift; sourceTree = "<group>"; };
 		1CBD998923E919FD007C3D24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CBD999523E91AC1007C3D24 /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1CBD996523E919F9007C3D24 /* AppDelegate.swift */,
 				1CBD996723E919F9007C3D24 /* SceneDelegate.swift */,
 				1CBD996923E919F9007C3D24 /* ContentView.swift */,
+				1CBD999523E91AC1007C3D24 /* homePage.swift */,
 				1CBD996B23E919FD007C3D24 /* Assets.xcassets */,
 				1CBD997023E919FD007C3D24 /* LaunchScreen.storyboard */,
 				1CBD997323E919FD007C3D24 /* Info.plist */,
@@ -270,6 +273,7 @@
 				1CBD996623E919F9007C3D24 /* AppDelegate.swift in Sources */,
 				1CBD996823E919F9007C3D24 /* SceneDelegate.swift in Sources */,
 				1CBD996A23E919F9007C3D24 /* ContentView.swift in Sources */,
+				1CBD999623E91AC1007C3D24 /* homePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
